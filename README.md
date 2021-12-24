@@ -1,6 +1,6 @@
 # Email-Analysis-with-Graphs Project
 
-This was the second of three mini-projects done for a my CPEN221 course at UBC, I've listed my contributions to the project below
+This was the second of three mini-projects done for a my software construction course at UBC, I've listed my contributions to the project below
 
 - **Implementing a Direct-weighted interaction graph**
   - Constructor method
